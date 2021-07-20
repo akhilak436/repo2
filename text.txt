@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 6A52-48AA
+
+ Directory of D:\my_repository
+
+20-07-2021  08:16    <DIR>          .
+20-07-2021  08:16    <DIR>          ..
+20-07-2021  08:16                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  999,465,701,376 bytes free
